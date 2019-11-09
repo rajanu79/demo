@@ -1,0 +1,14 @@
+C:\Projects\Learning\Azure\AppService\ImplementingWebServices\demo\bin\Debug\netcoreapp2.2\demo.deps.json
+C:\Projects\Learning\Azure\AppService\ImplementingWebServices\demo\bin\Debug\netcoreapp2.2\demo.runtimeconfig.json
+C:\Projects\Learning\Azure\AppService\ImplementingWebServices\demo\bin\Debug\netcoreapp2.2\demo.runtimeconfig.dev.json
+C:\Projects\Learning\Azure\AppService\ImplementingWebServices\demo\bin\Debug\netcoreapp2.2\demo.dll
+C:\Projects\Learning\Azure\AppService\ImplementingWebServices\demo\bin\Debug\netcoreapp2.2\demo.pdb
+C:\Projects\Learning\Azure\AppService\ImplementingWebServices\demo\obj\Debug\netcoreapp2.2\demo.csprojAssemblyReference.cache
+C:\Projects\Learning\Azure\AppService\ImplementingWebServices\demo\obj\Debug\netcoreapp2.2\demo.csproj.CoreCompileInputs.cache
+C:\Projects\Learning\Azure\AppService\ImplementingWebServices\demo\obj\Debug\netcoreapp2.2\demo.RazorAssemblyInfo.cache
+C:\Projects\Learning\Azure\AppService\ImplementingWebServices\demo\obj\Debug\netcoreapp2.2\demo.RazorAssemblyInfo.cs
+C:\Projects\Learning\Azure\AppService\ImplementingWebServices\demo\obj\Debug\netcoreapp2.2\demo.AssemblyInfoInputs.cache
+C:\Projects\Learning\Azure\AppService\ImplementingWebServices\demo\obj\Debug\netcoreapp2.2\demo.AssemblyInfo.cs
+C:\Projects\Learning\Azure\AppService\ImplementingWebServices\demo\obj\Debug\netcoreapp2.2\demo.RazorTargetAssemblyInfo.cache
+C:\Projects\Learning\Azure\AppService\ImplementingWebServices\demo\obj\Debug\netcoreapp2.2\demo.dll
+C:\Projects\Learning\Azure\AppService\ImplementingWebServices\demo\obj\Debug\netcoreapp2.2\demo.pdb
